@@ -1,0 +1,13 @@
+﻿  game.cpp
+d:\c\crazytanks\crazytanks\game.cpp(31): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(128): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(252): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(253): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(283): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CrazyTanks.vcxproj -> D:\C\CrazyTanks\Debug\CrazyTanks.exe
